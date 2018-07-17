@@ -444,7 +444,7 @@ The lord Buddha said:
 “Subhuti, if such a blessing had any substantiality, if it were anything other than a figure of speech, the Most Honored One would not have used the words ‘blessings and merit’.”
 
 ## 法界通化分第十九
-“须菩提，于意云何？若有人满三千大千世界七宝用以布施，是人以是因缘得福多不？”
+“须菩提，于意云何？若有人满三千大千世界七宝以用布施，是人以是因缘得福多不？”
 
 “如是，世尊。此人以是因缘得福甚多。”
 
