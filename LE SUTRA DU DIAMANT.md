@@ -10,11 +10,11 @@ Lorsqu'il recueillit ces dons, il revint au monastère afin d’y déjeuner.
 
 Ensuite, il ôta sa robe, posa son bol, se lava les pieds, disposa son coussin et s'assit.
 
+
 ## 2
 À ce moment, le Vénérable Subhuti se leva de son siège, rejeta son manteau sur son épaule droite, posa un genou au sol et, joignant les mains en signe de respect, s'adressa au Bouddha:
 
 «Honoré-par-le-Monde, un être tel que toi est chose rare. Tu soutiens toujours fermement les bodhisattvas et tu leur accordes ta pleine confiance.
-
 «Honoré-par-le-Monde, si les fils et filles de bonne famille entendent donner naissance au sublime et parfait esprit d'éveil, sur quoi doivent ils tabler et que doivent-ils faire pour maîtriser leur pensée?
 
 - Voilà qui est parlé, Subhuti! répondit le Bouddha. Tes mots sont d'une absolue justesse. Le Tathâgata soutient toujours fermement les bodhisattvas et leur accorde sa pleine confiance. Aussi, écoute avec la plus grande attention, et le Tathâgata répondra à ta question. Si les fils et filles de bonne famille entendent donner naissance au sublime et parfait esprit d'éveil, ils doivent tabler sur ce qui suit et maîtriser leur pensée de la manière suivante.
@@ -49,28 +49,29 @@ Si un bodhisattva pratique la générosité sans s'attacher aux apparences, le b
 
 - Non, Honoré-par-le-Monde.
 
-- Subhuti, l'espace qui s'étend à l'Ouest, au Sud, au Nord, en haut et en bas peut-il être mesuré?
+-Subhuti, l'espace qui s'étend à l'Ouest, au Sud, au Nord, en haut et en bas peut-il être mesuré?
 
 - Certes non, Honoré-par-le-Monde.
 
-- En conséquence, Subhuti, si un bodhisattva ne s'attache à aucun concept lorsqu'il pratique la générosité, le bonheur auquel donnera lieu cet acte vertueux sera aussi grand que l'espace tout entier. Il ne pourra être mesuré. Sache, Subhuti, que les bodhisattvas doivent demeurer dans les enseignements que je viens de délivrer.
+-En conséquence, Subhuti, si un bodhisattva ne s'attache à aucun concept lorsqu'il pratique la générosité, le bonheur auquel donnera lieu cet acte vertueux sera aussi grand que l'espace tout entier. Il ne pourra être mesuré. Sache, Subhuti, que les bodhisattvas doivent demeurer dans les enseignements que je viens de délivrer.
 
 ## 5
 «Qu'en penses-tu, Subhuti? Est-il possible de reconnaître un Tathâgata par le truchement de signes corporels?
 
 - Non, Honoré-par-le-Monde. Lorsque le Tathâgata parle de signes corporels, il n'est point de signes corporels dont il parle.
 
-- Subhuti, si dans un lieu il est quelque chose qui puisse être reconnu par le truchement de signes, dans ce lieu il y aura tromperie. Si tu peux voir la nature sans apparence des apparences, alors tu peux voir le Tathâgata.
+-Subhuti, si dans un lieu il est quelque chose qui puisse être reconnu par le truchement de signes, dans ce lieu il y aura tromperie. Si tu peux voir la nature sans apparence des apparences, alors tu peux voir le Tathâgata.
+
 
 ## 6
 Dans les temps à venir, demanda le Vénérable Subhuti au Bouddha, y aura-t-il des êtres qui, lorsqu'ils entendront ces enseignements, auront foi et confiance en eux?
 
-- Ne parle pas ainsi, Subhuti, répondit le Bouddha. Cinq cents ans après que le Tathâgata se sera éteint, il y aura encore des êtres qui jouiront du bonheur résultant de l'observance des préceptes. Lorsque de tels êtres entendront ces paroles, ils auront foi et confiance dans la présence de la vérité. Ceux-là, sache-le, ont semé leurs graines bénéfiques non seulement durant la vie d'un Bouddha, voire même de deux, trois, quatre ou cinq, mais en vérité, durant la vie de dix mille Bouddhas. Celui qui, durant une seule seconde, donne naissance à une pure et simple confiance en écoutant les paroles du Bouddha, celui-là sera vu et reconnu par le Tathâgata - et il atteindra un bonheur sans mesure en raison même de cette compréhension. Pourquoi?
+-Ne parle pas ainsi, Subhuti, répondit le Bouddha. Cinq cents ans après que le Tathâgata se sera éteint, il y aura encore des êtres qui jouiront du bonheur résultant de l'observance des préceptes. Lorsque de tels êtres entendront ces paroles, ils auront foi et confiance dans la présence de la vérité. Ceux-là, sache-le, ont semé leurs graines bénéfiques non seulement durant la vie d'un Bouddha, voire même de deux, trois, quatre ou cinq, mais en vérité, durant la vie de dix mille Bouddhas. Celui qui, durant une seule seconde, donne naissance à une pure et simple confiance en écoutant les paroles du Bouddha, celui-là sera vu et reconnu par le Tathâgata - et il atteindra un bonheur sans mesure en raison même de cette compréhension. 
+
+Pourquoi?
 
 «Parce qu'un tel être n'est pas emprisonné dans l’idée d'un soi, d'une personne, d'un être vivant ou d’une durée d'existence.
-
 Ni dans l'idée d'u dharma ou d'une absence de dharma.
-
 Ni dans l'idée selon laquelle ceci est un signe et cela n'est pas un signe.
 
 Pourquoi?
@@ -81,7 +82,9 @@ Si vous êtes emprisonné dans l'idée d'une absence de dharma, vous restez enco
 
 C'est pourquoi nous ne devons pas nous laisser piéger par l'idée d'un dharma ou d'une absence de dharma. Telle est la signification cachée de la parole du Tathâgata :
 
-"Bhikkhus, sachez-le, l'enseignement que je vous délivre est pareil à un radeau. Cet enseignement doit être abandonné - pour ne rien dire du non-enseignement.
+"Bhikkhus, sachez-le, l'enseignement que je vous délivre est pareil à un radeau. 
+
+Cet enseignement doit être abandonné - pour ne rien dire du non-enseignement.
 
 
 
@@ -93,43 +96,40 @@ Qu'en penses-tu, Subhuti? Le Tathâgata est-il parvenu au sublime et parfait esp
 
 
 ## 8
-
-- Qu'en penses-tu, Subhuti? Si, par un acte généreux, quelqu'un emplissait les trois mille chiliocosmes avec les sept précieux trésors, donnerait-il lieu à un très grand bonheur par ce geste vertueux?'
+-Qu'en penses-tu, Subhuti? Si, par un acte généreux, quelqu'un emplissait les trois mille chiliocosmes avec les sept précieux trésors, donnerait-il lieu à un très grand bonheur par ce geste vertueux?'
 
 - Oui, Honoré-par-le-Monde, répondit Subhuti. C'est parce que la vertu et le bonheur, en leur nature même, ne sont pas la vertu et le bonheur que le Tathâgata peut parler de la vertu et du bonheur.
 
-- Toutefois, reprit le Bouddha, s'il est une personne qui accepte ces enseignements - ne fût-ce qu'une stance de quatre lignes -, les met en pratique et les dispense à autrui, le bonheur résultant de cet acte vertueux dépassera de loin celui obtenu par l'offrande des sept précieux trésors. Pourquoi? Parce que, Subhuti, tous les Bouddhas ainsi que le Dharma du sublime et parfait esprit d'éveil de tous les Bouddhas naissent précisément de ces enseignements. Ce qui est appelé Bouddhadharma, Subhuti, est en réalité tout ce qui n'est pas le Boudhadharma.
+-Toutefois, reprit le Bouddha, s'il est une personne qui accepte ces enseignements - ne fût-ce qu'une stance de quatre lignes -, les met en pratique et les dispense à autrui, le bonheur résultant de cet acte vertueux dépassera de loin celui obtenu par l'offrande des sept précieux trésors. Pourquoi? Parce que, Subhuti, tous les Bouddhas ainsi que le Dharma du sublime et parfait esprit d'éveil de tous les Bouddhas naissent précisément de ces enseignements. Ce qui est appelé Bouddhadharma, Subhuti, est en réalité tout ce qui n'est pas le Boudhadharma.
 
 ## 9
 «Qu'en penses-tu, Subhuti ? Est-ce qu'un Entré dans-le-Courant pense "j'ai atteint le fruit de l'Entrée-dans-le-Courant" ?
 
 - Nullement, Honoré-par-le-Monde. Pourquoi? Entré-dans-Le-Courant signifie qu'il y a entrée dans le courant, mais en fait, il n'est aucun courant dans lequel entrer. Nul, en effet, n'entre dans un courant qui serait celui de la forme, du son, de l'odeur, du goût, du toucher ou de quelque objet mental. C'est ce que nous voulons dire quand nous parlons d'entrer dans le courant.
 
-- Qu'en penses-tu, Subhuti? Est-ce qu'un Revenu-une-seule-fois pense "j'ai atteint le fruit du Retour Unique"?
+-Qu'en penses-tu, Subhuti? Est-ce qu'un Revenu-une-seule-fois pense "j'ai atteint le fruit du Retour Unique"?
 
 - Non, Honoré-par-le-Monde. Pourquoi? Revenu-une-seule-fois signifie aller et revenir une fois encore, mais en vérité, il n'est pas plus d'aller que de retour. C'est ce que nous voulons dire quand nous parlons de revenir une seule fois.
 
-- Qu'en penses-tu, Subhuti? Est-ce qu'un Non-Revenu pense "j'ai atteint le fruit du Non-Retour"?
+-Qu'en penses-tu, Subhuti? Est-ce qu'un Non-Revenu pense "j'ai atteint le fruit du Non-Retour"?
 
 - Non, Honoré-par-le-Monde. Pourquoi? Non-retour  signifie ne plus revenir en ce monde, mais en fait, il ne saurait y avoir de Non-Retour. C'est ce que nous voulons dire quand nous parlons de ne plus revenir.
 
-- Qu'en penses-tu, Subhuti? Est-ce qu'un Arhat pense "j'ai atteint le fruit de la condition d'Arhat"?
+-Qu'en penses-tu, Subhuti? Est-ce qu'un Arhat pense "j'ai atteint le fruit de la condition d'Arhat"?
 
 - Non, Honoré-par-le-Monde. Pourquoi? Il n'est aucune chose existant séparément qui puisse être appelée Arhat. Si un Arhat donne naissance à la pensée selon laquelle il a atteint le fruit de la condition d'Arhat, alors il est encore emprisonné dans l'idée d'un soi, d'une personne, d'un être vivant ou d'une durée d'existence. Honoré-par-le monde, comme tu l'as maintes fois répété, j'ai attteint la concentration de quiétude, et au sein de la communauté, nul Arhat n'a transmuté comme moi la nécessité et le désir. Honoré-par-le-Monde, si un seul instant j'avais pensé "j'ai atteint le fruit de la condition d'Arhat", tu n'aurais certes pas affirmé que j'aime demeurer dans la concentration de quiétude.
 
 ## 10
 
-- Dans les temps anciens, demanda le Bouddha à Subhuti, lorsque le Tathâgata pratiquait sous la guidance du Bouddha Dipankara, a-t-il atteint quelque chose?
+-Dans les temps anciens, demanda le Bouddha à Subhuti, lorsque le Tathâgata pratiquait sous la guidance du Bouddha Dipankara, a-t-il atteint quelque chose?
 
 - Non, Honoré-par-le-Monde. Dans les temps anciens, lorsque le Tathâgata pratiquait sous la guidance du Bouddha Dipankara, il n'a rien atteint.
 
-- Qu'en penses-tu, Subhuti? Est-ce qu'un bodhisattva crée un champ de Bouddha serein et sublime?
+-Qu'en penses-tu, Subhuti? Est-ce qu'un bodhisattva crée un champ de Bouddha serein et sublime?
 
 - Non, Honoré-par-le-Monde. Pourquoi? Créer un champ de Bouddha serein et sublime n'est pas en fait créer un champ de Bouddha serein et sublime. C'est pourquoi cela est appelé créer un champ de Bouddha serein et sublime.
 
-- Ainsi, Subhuti, dit le Bouddha, tous les bodhisattvas mahasattvas doivent donner naissance à une pure et claire intention. Lorsqu'ils donnent naissance à cette intention, ils ne doivent pas s'attacher
-
-aux formes, aux sons, aux odeurs, au goûts, aux objets tangibles ou mentaux. En vérité, ils doivent faire naître une intention au sein d'un esprit qui ne demeure nulle part.
+-Ainsi, Subhuti, dit le Bouddha, tous les bodhisattvas mahasattvas doivent donner naissance à une pure et claire intention. Lorsqu'ils donnent naissance à cette intention, ils ne doivent pas s'attacher aux formes, aux sons, aux odeurs, au goûts, aux objets tangibles ou mentaux. En vérité, ils doivent faire naître une intention au sein d'un esprit qui ne demeure nulle part.
 
 «Subhuti, s'il existait quelqu'un dont le corps fût aussi grand que le mont Mérou, dirais-tu que son corps est immense?
 
@@ -139,15 +139,15 @@ aux formes, aux sons, aux odeurs, au goûts, aux objets tangibles ou mentaux. En
 
 ## 11
 
-- Subhuti, s'il y avait autant de Ganges que de grains de sable dans le Gange, dirais-tu que le nombre de grains de sable de tous ces Ganges serait immense?
+-Subhuti, s'il y avait autant de Ganges que de grains de sable dans le Gange, dirais-tu que le nombre de grains de sable de tous ces Ganges serait immense?
 
 - Immense, en effet, Honoré-par-le Monde. Si les Ganges étaient innombrables, d'autant plus nombreux seraient les grains de sable de tous ces Ganges.
 
-- Subhuti, je te demanderai à présent ceci : si, par un acte de générosité, un fils ou une fille de bonne famille emplissait les trois mille chiliocosmes avec autant de pierres précieuses que de grains de sable dans tous ces Ganges, cette personne donnerait-elle lieu à un grand bonheur par ce geste vertueux?
+-Subhuti, je te demanderai à présent ceci : si, par un acte de générosité, un fils ou une fille de bonne famille emplissait les trois mille chiliocosmes avec autant de pierres précieuses que de grains de sable dans tous ces Ganges, cette personne donnerait-elle lieu à un grand bonheur par ce geste vertueux?
 
 - Assurément, Honoré-par-le-Monde.
 
-- Pourtant, reprit le Bouddha, si un fils ou une fille de bonne famille savait comment accepter, pratiquer et expliquer ce soutra à autrui, ne fût-ce qu'une stance de quatre lignes, le bonheur résultant de cet acte vertueux serait plus considérable encore.
+-Pourtant, reprit le Bouddha, si un fils ou une fille de bonne famille savait comment accepter, pratiquer et expliquer ce soutra à autrui, ne fût-ce qu'une stance de quatre lignes, le bonheur résultant de cet acte vertueux serait plus considérable encore.
 
 ## 12
 
@@ -156,7 +156,7 @@ aux formes, aux sons, aux odeurs, au goûts, aux objets tangibles ou mentaux. En
 ## 13
 Après cela, Subhuti demanda au Bouddha: «Quel est le nom de ce soutra et comment devons-nous agir au regard de son enseignement?
 
-- Ce soutra, répondit le Bouddha, doit être appelé Le Diamant qui coupe l'Illusion, parce qu'il a la capacité de pourfendre toutes les illusions et afflictions, et de nous conduire sur la rive de la libération. Il convient donc de l'utiliser sous ce nom et de pratiquer en accord avec sa plus profonde signification. Pourquoi? Ce que le Tathâgata appelle compréhension transcendante et parfaite n'est pas en réalité une compréhension transcendante et parfaite. C'est pourquoi elle est, en vérité même, la compréhension transcendante et parfaite.
+-Ce soutra, répondit le Bouddha, doit être appelé Le Diamant qui coupe l'Illusion, parce qu'il a la capacité de pourfendre toutes les illusions et afflictions, et de nous conduire sur la rive de la libération. Il convient donc de l'utiliser sous ce nom et de pratiquer en accord avec sa plus profonde signification. Pourquoi? Ce que le Tathâgata appelle compréhension transcendante et parfaite n'est pas en réalité une compréhension transcendante et parfaite. C'est pourquoi elle est, en vérité même, la compréhension transcendante et parfaite.
 
 «Qu'en penses-tu, Subhuti? demanda le Bouddha. Existe-t-il un quelconque dharma enseigné par le Tathâgata ?
 
@@ -166,13 +166,13 @@ Après cela, Subhuti demanda au Bouddha: «Quel est le nom de ce soutra et comme
 
 - Très nombreuses, Honoré-par-le-Monde.
 
-- Le Tathâgata affirme, Subhuti, que ces particules de poussière ne sont pas des particules de poussière. C'est pourquoi elles sont en vérité des particules de poussière. Et ce que le Tathâgata appelle chiliocosmes, ce ne sont pas en fait des chiiliocosmes. C'est pourquoi on les nomme chiliocosmes.
+-Le Tathâgata affirme, Subhuti, que ces particules de poussière ne sont pas des particules de poussière. C'est pourquoi elles sont en vérité des particules de poussière. Et ce que le Tathâgata appelle chiliocosmes, ce ne sont pas en fait des chiiliocosmes. C'est pourquoi on les nomme chiliocosmes.
 
  «Qu'en penses-tu, Subhuti? Le Tathâgata peut-il être reconnu par la possession des trente-deux marques ?
 
 - Non, Honoré-par-le-Monde, répondit Subhuti. Pourquoi? Ce que le Tathâgata appelle les trente-deux marques ne sont pas en essence des marques, et c'est pourquoi le Tathâgata les nomme les trente-deux marques.
 
-- Subhuti, si un fils ou une fille de bonne famille, par un acte de générosité, offrait sa vie autant de fois qu'il y a de grains de sable dans le Gange, il donnerait certes lieu à un très grand bonheur. Pourtant, si un autre fils ou une autre fille de bonne famille savait comment accepter, pratiquer et expliquer ce soutra à autrui - ne fût-ce qu'une stance de quatre lignes -, le bonheur qui en résullterait serait plus considérable encore. »
+"-Subhuti, si un fils ou une fille de bonne famille, par un acte de générosité, offrait sa vie autant de fois qu'il y a de grains de sable dans le Gange, il donnerait certes lieu à un très grand bonheur. Pourtant, si un autre fils ou une autre fille de bonne famille savait comment accepter, pratiquer et expliquer ce soutra à autrui - ne fût-ce qu'une stance de quatre lignes -, le bonheur qui en résullterait serait plus considérable encore. »
 
 ## 14
 
@@ -184,7 +184,7 @@ Quand il eut saisi la force et la profondeur de ces paroles, le Vénérable Subh
 
 Pourquoi? Parce qu'il ne sera pas dominé par l'idée d'un soi, d'une personne, d'un être vivant et d'une durée d'existence. Pourquoi? L'idée d'un soi n'est pas une idée, et les idées d'une personne, d'un être vivant et d'une durée d'existence ne sont pas non plus des idées. Pourquoi? Les Bouddhas sont appelés Bouddhas parce qu'ils sont libres de toute idée.
 
-- Cela est parfaitement juste, Subhuti. Celui qui entend ce soutra sans être saisi d'effroi ou de crainte, celui-là est un être rare. Pourquoi? Ce que le Tathâgata appelle parama-paramita, la suprême transcendance, n'est pas, en essence, la suprême transcendance - et c'est pourquoi on la nomme suprême transcendance.
+-Cela est parfaitement juste, Subhuti. Celui qui entend ce soutra sans être saisi d'effroi ou de crainte, celui-là est un être rare. Pourquoi? Ce que le Tathâgata appelle parama-paramita, la suprême transcendance, n'est pas, en essence, la suprême transcendance - et c'est pourquoi on la nomme suprême transcendance.
 
 «Subhuti, selon le dire du Tathâgata, ce qui est appelé patience transcendante n'est pas la patience, transcendante. C'est pourquoi on l'appelle patience transcendante. Pourquoi? Il y a des milliers de vies, Subhuti, lorsque le roi Kalinga découpa mon corps en morceaux, je n'étais point emprisonné dans l'idée d'un soi, d'une personne, d'un être vivant ou d'une durée d'existence. Si, à cette époque, j'avais été emprisonné dans l'une ou l’autre de ces idées, j'eusse assurément éprouvé de la colère et de la haine à l'endroit de ce roi.
 
@@ -225,7 +225,7 @@ Alors le Vénérable Subhuti demanda au Bouddha:
 
 - Non, Honoré-par-le-Monde. Pour autant que je comprenne les enseignements du Bouddha, il n’est aucun sublime et parfait esprit d'éveil qui puisse être atteint.
 
-- Comme tu as raison, Subhuti. En vérité, le prétendu sublime et parfait esprit d'éveil que le Tathâgata aurait atteint n'existe aucunement. Car si une telle chose existait, le Bouddha Dipankara n'aurait certes pas prédit à mon endroit : "Dans le futur, tu deviendras un Bouddha appelé Shâkyamuni." Cette prédiction fut faite parce qu'en vérité il n'est nulle chose appelée sublime et parfait esprit d'éveil qui puisse être atteinte.
+-Comme tu as raison, Subhuti. En vérité, le prétendu sublime et parfait esprit d'éveil que le Tathâgata aurait atteint n'existe aucunement. Car si une telle chose existait, le Bouddha Dipankara n'aurait certes pas prédit à mon endroit : "Dans le futur, tu deviendras un Bouddha appelé Shâkyamuni." Cette prédiction fut faite parce qu'en vérité il n'est nulle chose appelée sublime et parfait esprit d'éveil qui puisse être atteinte.
 
 Pourquoi?
 
@@ -233,11 +233,11 @@ Pourquoi?
 
 Les dharmas, tels qu'on les nomme, ne sont pas en fait les dharmas.C'est pourquoi ils sont appelés dharmas.
 
-« Cela est comparable, Subhuti, à un homme qui posséderait un corps immense.
+«Cela est comparable, Subhuti, à un homme qui posséderait un corps immense.
 
 - Ce que le Tathâgata appelle corps immense n'est pas en fait un corps immense, répondit Subhuti.
 
-- Il en va de même pour les bodhisattvas, reprit le Bouddha. Si un bodhisattva croit qu'il doit libérer tous les êtres vivants, c'est qu'il n'est pas encore un bodhisattva. Pourquoi? Il n'est aucun objet mental existant de façon indépendante appelé bodhisattva. Aussi le Bouddha a-t-il déclaré que tous les dharmas sont dépourvus du caractère propre à un soi, à une personne, à un être vivant ou à une durée d'existence. Si un bodhisattva pense: “Je dois créer un champ de Bouddha serein et splendide »,  celui-là n'est pas encore un bodhisattva.
+-Il en va de même pour les bodhisattvas, reprit le Bouddha. Si un bodhisattva croit qu'il doit libérer tous les êtres vivants, c'est qu'il n'est pas encore un bodhisattva. Pourquoi? Il n'est aucun objet mental existant de façon indépendante appelé bodhisattva. Aussi le Bouddha a-t-il déclaré que tous les dharmas sont dépourvus du caractère propre à un soi, à une personne, à un être vivant ou à une durée d'existence. Si un bodhisattva pense: “Je dois créer un champ de Bouddha serein et splendide »,  celui-là n'est pas encore un bodhisattva.
 
 Pourquoi?
 
@@ -248,38 +248,38 @@ Ce que le Tathâgata appelle champ de Bouddha serein et splendide n'est pas en f
 
 - Oui, Honoré-par-le-Monde, le Tathâgata possède assurément un oeil d'homme.
 
-- Qu'en penses-tu, Subhuti? Le Tathâgata possède-t-il un oeil divin?
+-Qu'en penses-tu, Subhuti? Le Tathâgata possède-t-il un oeil divin?
 
 - Oui, Honoré-par-le-Monde, le Tathâgata possède assurément l'oeil divin.
 
-- Qu'en penses-tu, Subhuti? Le Tathâgata possède-t-il l'oeil de la vision pénétrante?                   
+-Qu'en penses-tu, Subhuti? Le Tathâgata possède-t-il l'oeil de la vision pénétrante?                   
 
 - Oui, Honoré-par-le-Monde, le Tathâgata possède assurément l' oeil de la vision pénétrante.
 
-- Qu'en penses-tu, Subhuti? Le Tathâgata possède-t-il l’oeil de la sagesse transcendante?
+-Qu'en penses-tu, Subhuti? Le Tathâgata possède-t-il l’oeil de la sagesse transcendante?
 
 - Oui, Honoré-par-le-Monde, le Tathâgata possède assurément l'oeil de la sagesse transcendante.
 
-- Qu'en penses-tu, Subhuti? Le Tathâgata possède-t-il l’oeil du Bouddha?
+-Qu'en penses-tu, Subhuti? Le Tathâgata possède-t-il l’oeil du Bouddha?
 
 - Oui, Honoré-par-le-Monde, le Tathâgata possède assurément l' oeil du Bouddha.
 
-- Qu'en penses-tu, Subhuti ? Le Bouddha voit–il le sable dans le Gange comme du sable?
+-Qu'en penses-tu, Subhuti ? Le Bouddha voit–il le sable dans le Gange comme du sable?
 
 - Honoré-par-le-Monde, le Tathâgata, lui aussi, l'appelle sable.
 
-- Subhuti, s'il y avait autant de Ganges que de grains de sable dans le Gange et autant de terres de Bouddha que de grains de sables dans tous ces Ganges, ces terres de Bouddha seraient-elles nombreuses?
+-Subhuti, s'il y avait autant de Ganges que de grains de sable dans le Gange et autant de terres de Bouddha que de grains de sables dans tous ces Ganges, ces terres de Bouddha seraient-elles nombreuses?
 
 - Oui, Honoré-par-le-Monde, très nombreuses.
 
-- Subhuti, si nombreux que soient les êtres vivants dans toutes ces terres du Bouddha, et quoi qu'ils possèdent chacun un esprit différent, le Tathâgata les comprend tous. Pourquoi en est-il ainsi? Ce que le Tathâgata appelle esprit différent, Subhuti, n'est pas en fait un esprit différent. C'est pourquoi on l'appelle esprit différent. «Pourquoi? L'esprit passé ne peut être saisi, Subhuti, non plus que l'esprit présent ou futur.
+-Subhuti, si nombreux que soient les êtres vivants dans toutes ces terres du Bouddha, et quoi qu'ils possèdent chacun un esprit différent, le Tathâgata les comprend tous. Pourquoi en est-il ainsi? Ce que le Tathâgata appelle esprit différent, Subhuti, n'est pas en fait un esprit différent. C'est pourquoi on l'appelle esprit différent. «Pourquoi? L'esprit passé ne peut être saisi, Subhuti, non plus que l'esprit présent ou futur.
 
 ## 19
 «Qu'en penses-tu, Subhuti? Si quelqu'un, par un acte de générosité, emplissait les trois mille chiliocosmes au moyen des sept précieux trésors, engendrerait-il un grand bonheur par ce geste vertueux?
 
 - Oui, Honoré-par-le-Monde, très grand.
 
-- Si un tel bonheur, Subhuti, était conçu comme une entité séparée de tout le reste, le Tathâgata ne l'aurait pas déclaré grand, mais puisqu'il est insaisissable, le Tathâgata a pu affirmer que le geste vertueux de cette personne engendrerait effectivement un grand bonheur.
+-Si un tel bonheur, Subhuti, était conçu comme une entité séparée de tout le reste, le Tathâgata ne l'aurait pas déclaré grand, mais puisqu'il est insaisissable, le Tathâgata a pu affirmer que le geste vertueux de cette personne engendrerait effectivement un grand bonheur.
 
 ## 20
 «Qu'en penses-tu, Subhuti? Le Tathâgata peut-il être perçu dans un corps à la forme parfaite?
@@ -292,26 +292,25 @@ Ce que le Tathâgata appelle champ de Bouddha serein et splendide n'est pas en f
 
 ## 21
 
-- Ne crois pas, Subhuti, que le Tathâgata pense: "Je délivrerai un enseignement." Non, ne crois rien de cela. Pourquoi? Celui qui dit que le Tathâgata a quelque chose à enseigner, celui-là calomnie le Bouddha car il ne comprend pas mes paroles. Délivrer le Dharma, Subhuti, signifie en vérité que nul enseignement n'est délivré. Tel est au juste l'enseignement du Dharma. »
+-Ne crois pas, Subhuti, que le Tathâgata pense: "Je délivrerai un enseignement." Non, ne crois rien de cela. Pourquoi? Celui qui dit que le Tathâgata a quelque chose à enseigner, celui-là calomnie le Bouddha car il ne comprend pas mes paroles. Délivrer le Dharma, Subhuti, signifie en vérité que nul enseignement n'est délivré. Tel est au juste l'enseignement du Dharma. »
 
 Alors, le Pénétrant Subhuti dit au Bouddha:
 
 «Dans le futur, Honoré-par-le-Monde, y aura-t-il des êtres vivants qui, à l'écoute de ces paroles, manifesteront une parfaite confiance?
 
-- Subhuti, répondit le Bouddha, ces êtres vivants ne sont ni des êtres ni des non-êtres. Pourquoi en est-il ainsi? Ceux que le Tathâgata désigne comme des êtres non vivants, Subhuti, sont en vérité des êtres vivants. »
+-Subhuti, répondit le Bouddha, ces êtres vivants ne sont ni des êtres ni des non-êtres. Pourquoi en est-il ainsi? Ceux que le Tathâgata désigne comme des êtres non vivants, Subhuti, sont en vérité des êtres vivants. »
 
 ## 22
 Alors, Subhuti demanda au Bouddha:
 
 «Honoré-par-le-Monde, le sublime et parfait esprit d'éveil atteint par le Bouddha est-il inaccessible?
 
-- Assurément, Subhuti. Au regard du sublime et parfait esprit d'éveil, je n'ai rien atteint. Tel est le sublime et parfait esprit d'éveil.
+-Assurément, Subhuti. Au regard du sublime et parfait esprit d'éveil, je n'ai rien atteint. Tel est le sublime et parfait esprit d'éveil.
 
 ## 23
 «En outre, Subhuti, cet esprit est partout égal. C’est parce qu'il n'est ni en haut ni en bas qu'on l'appelle sublime et parfait esprit d'éveil. Et le fruit de ce sublime et parfait esprit s'accomplit par la pratique de toute action bénéfique libre des vues du soi, de la personne, de l'être vivant et de la durée d'existence. Ce qu'on appelle action bénéfique, Subhuti, est en fait une non-action bénéfique. C'est pourquoi on la nomme action bénéfique.
 
 ## 24
-
 «Subhuti, si quelqu'un, par un acte de générosité, accumulait au sein des trois mille chiliocosmes des montagnes constituées des sept précieux trésors jusqu'à des hauteurs aussi élevées que le mont Mérou, il n'approcherait pourtant pas le bonheur auquel donne lieu celui qui sait comment accepter, pratiquer et expliquer le Vajracchedika: Prajnaparamita Soutra à autrui. Le bonheur dû à la vertu d'une personne qui pratique ce soutra, ne fût-ce qu'une stance de quatre lignes, ne saurait être décrit au moyen d'exemples ou par les mathématiques.
 
 ## 25
@@ -326,13 +325,13 @@ En vérité, il n'est pas un seul être vivant que le Tathâgata conduise sur l'
 
 “Certes, Honoré-par-le-Monde. Nous pouvons user des trente-deux marques pour méditer sur le Tathâgata.
 
-- Si tu affirmes, reprit le Bouddha, pouvoir user des trente-deux marques pour voir le Tathâgata, alors le Chakravartin, le Monarque universel, serait lui aussi un Tathâgata
+-Si tu affirmes, reprit le Bouddha, pouvoir user des trente-deux marques pour voir le Tathâgata, alors le Chakravartin, le Monarque universel, serait lui aussi un Tathâgata
 
-- Honoré-par-le-Monde, répondit Subhuti, je comprends ton enseignement. Nul ne doit se servir des trente-deux marques pour méditer sur le Tathâgata. »
+“ - Honoré-par-le-Monde, répondit Subhuti, je comprends ton enseignement. Nul ne doit se servir des trente-deux marques pour méditer sur le Tathâgata. »
 
 Alors, l'Honoré-par-le-Monde énonça ces vers:
 
-Celui qui me perçoit sous une forme ou me cherche sous un son,
+Celui qui me perçoit sous une forme ou me cherche sous un son, 
 
 celui-là s'engage sur une voie erronée et ne peut voir le Tathâgata.
 
@@ -346,7 +345,7 @@ Subhuti interrogea alors le Bouddha:
 
 «Que veux-tu dire, Honoré-par-le-Monde, lorsque tu affirmes qu'un bodhisattva n'a nul besoin d'accumuler vertus et bonheurs?
 
-- Un bodhisattva, Subhuti, donne naissance à la vertu et au bonheur, mais il n'est pas emprisonné dans l'idée de la vertu et du bonheur. C'est pourquoi, selon la parole du Tathâgata, un bodhisattva n'a nul besoin d'accumuler vertus et bonheurs.
+-Un bodhisattva, Subhuti, donne naissance à la vertu et au bonheur, mais il n'est pas emprisonné dans l'idée de la vertu et du bonheur. C'est pourquoi, selon la parole du Tathâgata, un bodhisattva n'a nul besoin d'accumuler vertus et bonheurs.
 
 ## 28
 «Subhuti, celui qui dit que l'Honoré-par-le Monde va, vient, s' asseoit ou s'allonge, celui-là n'a pas compris mes paroles. Pourquoi? Tathâgata signifie "qui vient de nulle part et qui ne va nulle part". C'est pourquoi il est appelé Tathâgata.
@@ -358,14 +357,14 @@ Subhuti interrogea alors le Bouddha:
 
 - Assurément, Honoré-par-le-Monde, elles seraient nombreuses. Pourquoi? Si les particules de poussière avaient une existence réelle, le Bouddha ne les aurait pas appelées particules de poussière. Les particules de poussière, telles que le Bouddha les a nommées, ne sont pas en fait des particules de poussière. Aussi peut-on les appeler particules de poussière. Honoré-par-le-Monde, les trois mille chiliocosmes, tels que le Bouddha les a nommés, ne sont pas des chiliocosmes. C'est pourquoi ils sont appelés chiliocosmes. Pourquoi? Si les chiliocosmes étaient réels, ils seraient des composés de particules obéissant aux conditions par lesquelles un objet est assemblé. Ce que le Tathâgata appelle un composé n'est pas en essence un composé. C'est pourquoi il est appelé composé.
 
-- Ce qui est appelé composé, Subhuti, n'est qu'une convention de langage. Sans contenu réel. Seuls les êtres ordinaires sont prisonniers des conventions de langage.
+-Ce qui est appelé composé, Subhuti, n'est qu'une convention de langage. Sans contenu réel. Seuls les êtres ordinaires sont prisonniers des conventions de langage.
 
 ## 31
 «Subhuti, si quelqu'un déclarait que le Bouddha a enseigné les points de vue propres à un soi, à une personne, à un être vivant ou à une durée d'existence, aurait-il saisi le sens de mes paroles?
 
 - Non, Honoré-par-le-Monde. Celui-là n'aurait pas compris le Tathâgata. Pourquoi? Les points de vue propres à un soi, à une personne, à un être vivant ou à une durée d'existence, tels qu'ils sont nommés par le Tathâgata, ne sont pas dans leur essence les points de vue propres à un soi, à une personne, à un être vivant ou à une durée d'existence. C'est pourquoi on les appelle points de vue propres à un soi, à une personne, à un être vivant ou à une durée d'existence.
 
-- Subhuti, celui qui donne naissance au sublime et parfait esprit d'éveil devrait savoir qu'il en va ainsi de tous les dharmas. Il devrait les considérer de cette manière, leur accorder foi sans créer de concepts. Ce qui est appelé, selon la parole du Tathâgata, concept d'un dharma n'est pas le concept d'un dharma. C'est pourquoi on l'appelle concept d'un dharma.
+-Subhuti, celui qui donne naissance au sublime et parfait esprit d'éveil devrait savoir qu'il en va ainsi de tous les dharmas. Il devrait les considérer de cette manière, leur accorder foi sans créer de concepts. Ce qui est appelé, selon la parole du Tathâgata, concept d'un dharma n'est pas le concept d'un dharma. C'est pourquoi on l'appelle concept d'un dharma.
 
 ## 32
 «Subhuti, si quelqu'un venait à offrir, par un acte de générosité, une quantité incalculable des sept trésors afin d'emplir des mondes aussi infinis que l'espace, le bonheur auquel donnerait lieu ce geste vertueux n'égalerait pas celui dû à un fils ou une fille de bonne famille qui donnerait naissance à l'esprit d'éveil, lirait, réciterait, accepterait et mettrait en pratique ce soutra - ne fût-ce qu'une stance de quatre lignes - et l'expliquerait à autrui. Dans quel esprit cette explication devrait-elle être donnée? Sans demeurer prisonnier des apparences, en s'accordant simplement avec les choses telles qu'elles sont et sans la moindre agitation.
