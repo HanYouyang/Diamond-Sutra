@@ -1,0 +1,2 @@
+## Chapter 24
+“Subhuti, if a person collected treasures as high as 3,000 of the highest mountains, and gave them all to others, their merit would be less than what would accrue to another person who simply observed and studied this Sutra and, out of kindness, explained it to others. The latter person would accumulate hundreds of times the merit, hundreds of thousands of millions of times the merit. There is no conceivable comparison.”

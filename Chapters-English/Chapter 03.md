@@ -1,0 +1,4 @@
+## Chapter 03
+“All living beings, whether born from eggs, from the womb, from moisture, or spontaneously; whether they have form or do not have form; whether they are aware or unaware, whether they are not aware or not unaware, all living beings will eventually be led by me to the final Nirvana, the final ending of the cycle of birth and death. And when this unfathomable, infinite number of living beings have all been liberated, in truth not even a single being has actually been liberated.”
+
+“Why Subhuti? Because if a disciple still clings to the arbitrary illusions of form or phenomena such as an ego, a personality, a self, a separate person, or a universal self existing eternally, then that person is not an authentic disciple.”

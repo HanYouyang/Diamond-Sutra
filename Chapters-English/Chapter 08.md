@@ -1,0 +1,6 @@
+## Chapter 08
+“Let me ask you Subhuti? If a person filled over ten thousand galaxies with the seven treasures for the purpose of compassion, charity, and giving alms, would this person not gain great merit and spread much happiness?”
+
+“Yes, Most Honored One. This person would gain great merit and spread much happiness, even though, in truth, this person does not have a separate existence to which merit could accrue. Why? Because this person’s merit is characterized with the quality of not being merit.”
+
+The Buddha continued, “Then suppose another person understood only four lines of this Sutra, but nevertheless took it upon themselves to explain these lines to someone else. This person’s merit would be even greater than the other person’s. Why? Because all Buddhas and all the teachings and values of the highest, most fulfilled, most awakened minds arise from the teachings in this Sutra. And yet, even as I speak, Subhuti, I must take back my words as soon as they are uttered, for there are no Buddhas and there are no teachings.”

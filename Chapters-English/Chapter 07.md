@@ -1,0 +1,4 @@
+## Chapter 07
+Then Buddha asked Subhuti, “What do you think, Subhuti, has the Buddha arrived at the highest, most fulfilled, most awakened and enlightened mind? Does the Buddha teach any teaching?”
+
+Subhuti replied, “As far as I have understood the lord Buddha’s teachings, there is no independently existing object of mind called the highest, most fulfilled, awakened or enlightened mind. Nor is there any independently existing teaching that the Buddha teaches. Why? Because the teachings that the Buddha has realized and spoken of cannot be conceived of as separate, independent things and therefore cannot be described. The truth in them is uncontainable and inexpressible. It neither is, nor is it not. What does this mean? What this means is that Buddhas and disciples are not enlightened by a set method of teachings, but by an internally intuitive process which is spontaneous and is part of their own inner nature.”

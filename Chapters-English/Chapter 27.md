@@ -1,0 +1,2 @@
+## Chapter 27
+“However, Subhuti, if you think that the Buddha realizes the highest, most fulfilled, and awakened mind and does not need to have all the marks, you are mistaken. Subhuti, do not think in that way. Do not think that when one gives rise to the highest, most fulfilled, and awakened mind, one needs to see all objects of mind as nonexistent, cut off from life. Please do not think in that way. One who gives rise to the highest, most fulfilled, and awakened mind does not contend that all objects of mind are nonexistent and cut off from life. That is not what I say.”

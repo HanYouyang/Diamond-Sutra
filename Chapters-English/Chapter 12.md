@@ -1,0 +1,2 @@
+## Chapter 12
+“Furthermore, Subhuti, if any person in any place were to teach even four lines of this Sutra, the place where they taught it would become sacred ground and would be revered by all kinds of beings. How much more sacred would the place become if that person then studied and observed the whole Sutra! Subhuti, you should know that any person who does that would surely attain something rare and profound. Wherever this Sutra is honored and revered there is a sacred site enshrining the presence of the Buddha or one of the Buddha’s most venerable disciples.”
